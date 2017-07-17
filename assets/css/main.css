@@ -1037,6 +1037,14 @@
 
 	/* Header */
 
-		#header nav {
-			padding: 0 1em;
-		} }
+        #header nav {
+            font-size: 0.8em;
+        }
+
+            #header nav a:hover {
+                font-size: 1.2em;
+            }
+
+            #header nav a:active {
+                font-size: 1em;
+            } }
